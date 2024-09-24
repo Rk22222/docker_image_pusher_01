@@ -4,3 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 adguard/adguardhome
 olbat/cupsd
+ydkn/cupsd
