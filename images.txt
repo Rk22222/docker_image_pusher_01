@@ -1,7 +1,13 @@
 nginx
-kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 adguard/adguardhome
 olbat/cupsd
 ydkn/cupsd
+portainer/portainer
+jeessy/ddns-go
+johnshine/baidunetdisk-crossover-vnc
+whyour/qinglong
+cnk3x/xunlei:3.7.1
+homeassistant/home-assistant
+weejewel/wg-easy
