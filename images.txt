@@ -5,3 +5,5 @@ whyour/qinglong
 cnk3x/xunlei:3.7.1
 homeassistant/home-assistant
 weejewel/wg-easy
+adguard/adguardhome
+olbat/cupsd
