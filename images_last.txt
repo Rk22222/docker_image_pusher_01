@@ -1,0 +1,12 @@
+ghcr.io/imagegenius/immich:latest
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+portainer/portainer
+jeessy/ddns-go
+johnshine/baidunetdisk-crossover-vnc
+whyour/qinglong
+cnk3x/xunlei:3.7.1
+homeassistant/home-assistant
+weejewel/wg-easy
+adguard/adguardhome
+olbat/cupsd
