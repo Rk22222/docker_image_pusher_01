@@ -1,3 +1,5 @@
+ghcr.io/immich-app/immich-machine-learning:commit-2fe35df3715762875dcecc6f5e8174031acacfa5
+ghcr.io/immich-app/immich-server:pr-16206
 ghcr.io/imagegenius/immich:latest
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
