@@ -1,3 +1,3 @@
-
+johnshine/baidunetdisk-crossover-vnc:4.2
 ghcr.io/immich-app/immich-machine-learning:commit-2fe35df3715762875dcecc6f5e8174031acacfa5
 ghcr.io/immich-app/immich-server:pr-16206
