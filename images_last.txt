@@ -8,6 +8,5 @@ ghcr.io/immich-app/immich-machine-learning:commit-2fe35df3715762875dcecc6f5e8174
 ghcr.io/immich-app/immich-server:pr-16206
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
-homeassistant/home-assistant
 stirlingtools/stirling-pdf
 
