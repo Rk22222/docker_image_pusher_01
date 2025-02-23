@@ -9,4 +9,5 @@ ghcr.io/immich-app/immich-server:pr-16206
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 stirlingtools/stirling-pdf
+ghcr.io/hacdias/webdav
 
