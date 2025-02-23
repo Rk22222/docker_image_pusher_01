@@ -1,2 +1,3 @@
+ghcr.io/home-assistant/home-assistant:stable
 ghcr.io/hacdias/webdav
 
