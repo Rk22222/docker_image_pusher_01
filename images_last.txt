@@ -11,3 +11,4 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 stirlingtools/stirling-pdf
 ghcr.io/hacdias/webdav
 ghcr.io/home-assistant/home-assistant:stable
+minio/minio
