@@ -1,2 +1,1 @@
-
-kuingsmile/piclist
+jc21/nginx-proxy-manager
